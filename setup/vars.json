@@ -1,0 +1,17 @@
+{
+    "confluence_URL": "https://truongtest01.atlassian.net",
+    "page_ID": 360449,
+    "API_key": "xasdASDHJLKQWNSADPLAS6522ASKDJWLKNASMNDASD",
+    "from_table": 0,
+    "to_table": 1,
+    "table_0": {
+        "first_column": "Projects",
+        "header": "alpha",
+        "replace_with": "DONE"
+    },
+    "table_1": {
+        "first_column": "Projects",
+        "header": "beta",
+        "replace_with": "WIP"
+    }
+}
